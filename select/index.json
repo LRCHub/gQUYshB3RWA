@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "VIP（feat. 百足）",
+  "base_artist": "YOSHIKI EZAKI",
+  "createdAt": "2026-02-09T17:21:44.815365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Too Close VIP (feat. Detour City)",
+      "artist": "Wilkinson feat. Detour City",
+      "has_synced": false,
+      "path": "select/01_Too_Close_VIP_(feat._Detour_City)_Wilkinson_feat._Detour_City.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gangsta Boogie Vip (Feat. Knytro)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/02_Gangsta_Boogie_Vip_(Feat._Knytro)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Falling Down (VIP) (feat. Kenzie May)",
+      "artist": "Sub Focus",
+      "has_synced": false,
+      "path": "select/03_Falling_Down_(VIP)_(feat._Kenzie_May)_Sub_Focus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Falling Down (VIP) (feat. Kenzie May)",
+      "artist": "Sub Focus, Kenzie May",
+      "has_synced": false,
+      "path": "select/04_Falling_Down_(VIP)_(feat._Kenzie_May)_Sub_Focus,_Kenzie_May.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Root of All Evil VIP (feat. Erica Lindbeck & The Stupendium)",
+      "artist": "Silva Hound",
+      "has_synced": false,
+      "path": "select/05_Root_of_All_Evil_VIP_(feat._Erica_Lindbeck_&_The_Stupendium)_Silva_Hound.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uebok VIP (feat. Instasamka)",
+      "artist": "Apashe",
+      "has_synced": false,
+      "path": "select/06_Uebok_VIP_(feat._Instasamka)_Apashe.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heartbit VIP (feat. Tia Simone)",
+      "artist": "Pegboard Nerds",
+      "has_synced": true,
+      "path": "select/07_Heartbit_VIP_(feat._Tia_Simone)_Pegboard_Nerds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carré VIP (feat. Hayce Lemsi)",
+      "artist": "DJ Kayz feat. Hayce Lemsi",
+      "has_synced": false,
+      "path": "select/08_Carré_VIP_(feat._Hayce_Lemsi)_DJ_Kayz_feat._Hayce_Lemsi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Carré VIP (feat. Hayce Lemsi)",
+      "artist": "DJ Kayz",
+      "has_synced": false,
+      "path": "select/09_Carré_VIP_(feat._Hayce_Lemsi)_DJ_Kayz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "VIP (feat. Laruzo)",
+      "artist": "Ardian Bujupi",
+      "has_synced": false,
+      "path": "select/10_VIP_(feat._Laruzo)_Ardian_Bujupi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vip (feat. Manwell Reyes)",
+      "artist": "Manic Drive",
+      "has_synced": true,
+      "path": "select/11_Vip_(feat._Manwell_Reyes)_Manic_Drive.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get It Right VIP (feat. MØ & GoldLink)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/12_Get_It_Right_VIP_(feat._MØ_&_GoldLink)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Destroyin' Heads (VIP) (feat. Nexus 6)",
+      "artist": "Masked",
+      "has_synced": false,
+      "path": "select/13_Destroyin'_Heads_(VIP)_(feat._Nexus_6)_Masked.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VIP (feat. Diljit Singh Dosanjh)",
+      "artist": "Raj Ranjodh feat. Diljit Dosanjh",
+      "has_synced": false,
+      "path": "select/14_VIP_(feat._Diljit_Singh_Dosanjh)_Raj_Ranjodh_feat._Diljit_Dosanjh.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Falling Down (VIP) [feat. Kenzie May]",
+      "artist": "Sub Focus feat. Kenzie May",
+      "has_synced": false,
+      "path": "select/15_Falling_Down_(VIP)_[feat._Kenzie_May]_Sub_Focus_feat._Kenzie_May.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Feel the Love (Rudimental VIP) [feat. John Newman]",
+      "artist": "Rudimental",
+      "has_synced": false,
+      "path": "select/16_Feel_the_Love_(Rudimental_VIP)_[feat._John_Newman]_Rudimental.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Coexist (VIP) [feat. Shreya]",
+      "artist": "Prismo feat. Shreya",
+      "has_synced": true,
+      "path": "select/17_Coexist_(VIP)_[feat._Shreya]_Prismo_feat._Shreya.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gassed Up VIP (feat Flowdan)",
+      "artist": "Zeds Dead & Subtronics",
+      "has_synced": true,
+      "path": "select/18_Gassed_Up_VIP_(feat_Flowdan)_Zeds_Dead_&_Subtronics.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Spacetime VIP (feat NEVVE)",
+      "artist": "Subtronics",
+      "has_synced": true,
+      "path": "select/19_Spacetime_VIP_(feat_NEVVE)_Subtronics.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "REDLIGHT - VIP Feat. A$AP Ferg - Single",
+      "artist": "NGHTMRE",
+      "has_synced": true,
+      "path": "select/20_REDLIGHT_-_VIP_Feat._A$AP_Ferg_-_Single_NGHTMRE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIP (feat. 百足)",
+      "artist": "YOSHIKI EZAKI",
+      "has_synced": false,
+      "path": "select/pl_01_VIP_(feat._百足)_YOSHIKI_EZAKI.txt"
+    }
+  ]
+}
